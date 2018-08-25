@@ -1,0 +1,32 @@
+{
+  "name": "mpvue-diff-patch",
+  "version": "0.1.1",
+  "description": "mpvue diff patch for https://github.com/Meituan-Dianping/mpvue/issues/639",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kokororin/mpvue-diff-patch.git"
+  },
+  "keywords": [
+    "mpvue",
+    "mp",
+    "diff"
+  ],
+  "author": "kokororin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kokororin/mpvue-diff-patch/issues"
+  },
+  "homepage": "https://github.com/kokororin/mpvue-diff-patch#readme",
+  "peerDependencies": {
+    "mpvue": "*"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.6",
+    "eslint": "^5.4.0",
+    "eslint-config-kotori": "^0.2.3"
+  }
+}
